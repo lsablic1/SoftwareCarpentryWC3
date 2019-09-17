@@ -12,7 +12,7 @@ if __name__ == "__main__":
 		
 		if rem == 0:
 			s = s+i
-		else 
+		else: 
 			s = s
 
 
